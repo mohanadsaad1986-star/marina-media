@@ -1,0 +1,228 @@
+{
+ "updated": "2026-11-21",
+ "rules": "no same video within 3 days; one topic per day; no identical looks back to back; IG/FB stories only; TikTok normal video",
+ "stories": [
+  {
+   "file": "st01-delivery-mosul.mp4",
+   "topic": "delivery",
+   "look": "blush arch frame, arches pattern, plum pills",
+   "voiceover": "MARINA-VO-2026-11-04-05-توصيل-لين",
+   "voice": "لين (AI Studio tool)",
+   "duration": 20.1,
+   "made": "2026-11-21",
+   "hook": "مشوار السوق مأخّرج عن البشت؟",
+   "scheduled": [
+    "2026-11-22 15:30 IG+FB story",
+    "2026-11-22 14:30 TikTok",
+    "2026-11-25 18:30 IG+FB story",
+    "2026-11-28 20:30 IG+FB story"
+   ]
+  },
+  {
+   "file": "st02-delivery-iraq.mp4",
+   "topic": "delivery",
+   "look": "champagne lines, side-by-side photo pair",
+   "voiceover": "MARINA-VO-2026-11-04-06-توصيل-لين",
+   "voice": "لين (AI Studio tool)",
+   "duration": 23.46,
+   "made": "2026-11-21",
+   "hook": "محافظتج بعيدة عن الموصل؟",
+   "scheduled": [
+    "2026-11-23 15:30 IG+FB story",
+    "2026-11-26 18:30 IG+FB story"
+   ]
+  },
+  {
+   "file": "st03-size-free.mp4",
+   "topic": "size",
+   "look": "lavender dots, single rect photo, purple pills",
+   "voiceover": "MARINA-VO-2026-11-03-09-قياسات-لين",
+   "voice": "لين (AI Studio tool)",
+   "duration": 20.94,
+   "made": "2026-11-21",
+   "hook": "تحسبين الفري سايز ما يناسبج؟",
+   "scheduled": [
+    "2026-11-22 23:00 IG+FB story",
+    "2026-11-25 15:30 IG+FB story",
+    "2026-11-28 18:30 IG+FB story"
+   ]
+  },
+  {
+   "file": "st04-size-belt.mp4",
+   "topic": "size",
+   "look": "sage grid, big photo with glass hook",
+   "voiceover": "MARINA-VO-2026-11-04-09-قياسات-لين",
+   "voice": "لين (AI Studio tool)",
+   "duration": 21.18,
+   "made": "2026-11-21",
+   "hook": "الحزام الداخلي شيسوي؟",
+   "scheduled": [
+    "2026-11-23 20:30 IG+FB story",
+    "2026-11-26 15:30 IG+FB story"
+   ]
+  },
+  {
+   "file": "st05-fabric-winter.mp4",
+   "topic": "fabric",
+   "look": "champagne-rose lines, 3-photo carousel",
+   "voiceover": "MARINA-VO-2026-11-03-10-شتوي-لين",
+   "voice": "لين (AI Studio tool)",
+   "duration": 23.94,
+   "made": "2026-11-21",
+   "hook": "البرد قرّب.. وإنتِ شلون محضّرة؟",
+   "scheduled": [
+    "2026-11-22 13:30 IG+FB story",
+    "2026-11-25 20:30 IG+FB story",
+    "2026-11-28 15:30 IG+FB story"
+   ]
+  },
+  {
+   "file": "st06-price-velvet.mp4",
+   "topic": "price",
+   "look": "rose dots, photo left + price column right",
+   "voiceover": "MARINA-VO-2026-11-03-11-شتوي-لين",
+   "voice": "لين (AI Studio tool)",
+   "duration": 21.94,
+   "made": "2026-11-21",
+   "hook": "دفا وفخامة سوا؟",
+   "scheduled": [
+    "2026-11-22 18:30 IG+FB story",
+    "2026-11-25 23:00 IG+FB story",
+    "2026-11-28 13:30 IG+FB story",
+    "2026-11-28 14:30 TikTok"
+   ]
+  },
+  {
+   "file": "st07-shop-address.mp4",
+   "topic": "shop",
+   "look": "ivory grid, arch mannequin",
+   "voiceover": "MARINA-VO-2026-11-03-14-عنوان-لين",
+   "voice": "لين (AI Studio tool)",
+   "duration": 22.14,
+   "made": "2026-11-21",
+   "hook": "ما تدرين وين تمرّين علينا؟",
+   "scheduled": [
+    "2026-11-22 20:30 IG+FB story",
+    "2026-11-25 13:30 IG+FB story",
+    "2026-11-25 14:30 TikTok",
+    "2026-11-28 23:00 IG+FB story"
+   ]
+  },
+  {
+   "file": "st08-iraqi-made.mp4",
+   "topic": "iraqi-made",
+   "look": "ivory dots, maroon pills",
+   "voiceover": "MARINA-VO-2026-11-03-12-جودة-لين",
+   "voice": "لين (AI Studio tool)",
+   "duration": 22.78,
+   "made": "2026-11-21",
+   "hook": "تدرين وين ينخاط بشتج؟",
+   "scheduled": [
+    "2026-11-23 13:30 IG+FB story",
+    "2026-11-23 14:30 TikTok",
+    "2026-11-26 20:30 IG+FB story"
+   ]
+  },
+  {
+   "file": "st09-finish-quality.mp4",
+   "topic": "fabric",
+   "look": "peach arches, detail zoom-out",
+   "voiceover": "MARINA-VO-2026-11-03-13-جودة-لين",
+   "voice": "لين (AI Studio tool)",
+   "duration": 21.1,
+   "made": "2026-11-21",
+   "hook": "لا توقفين عند شكل البشت!",
+   "scheduled": [
+    "2026-11-23 18:30 IG+FB story",
+    "2026-11-26 23:00 IG+FB story"
+   ]
+  },
+  {
+   "file": "st10-delivery-door.mp4",
+   "topic": "delivery",
+   "look": "mauve lines, photo triptych",
+   "voiceover": "MARINA-VO-2026-11-03-05-توصيل-لين",
+   "voice": "لين (AI Studio tool)",
+   "duration": 19.42,
+   "made": "2026-11-21",
+   "hook": "بعيدة عن محلنا؟",
+   "scheduled": [
+    "2026-11-24 15:30 IG+FB story",
+    "2026-11-27 20:30 IG+FB story"
+   ]
+  },
+  {
+   "file": "st11-size-duo.mp4",
+   "topic": "size",
+   "look": "powder-blue arches, overlapping duo",
+   "voiceover": "MARINA-VO-2026-11-03-09-قياسات-لين",
+   "voice": "لين (AI Studio tool)",
+   "duration": 20.94,
+   "made": "2026-11-21",
+   "hook": "تحسبين الفري سايز ما يناسبج؟",
+   "scheduled": [
+    "2026-11-24 20:30 IG+FB story",
+    "2026-11-27 23:00 IG+FB story"
+   ]
+  },
+  {
+   "file": "st12-velvet-touch.mp4",
+   "topic": "fabric",
+   "look": "mocha dots, big arch zoom-out",
+   "voiceover": "MARINA-VO-2026-11-03-10-شتوي-لين",
+   "voice": "لين (AI Studio tool)",
+   "duration": 23.94,
+   "made": "2026-11-21",
+   "hook": "البرد قرّب.. وإنتِ شلون محضّرة؟",
+   "scheduled": [
+    "2026-11-24 13:30 IG+FB story",
+    "2026-11-24 14:30 TikTok",
+    "2026-11-27 18:30 IG+FB story"
+   ]
+  },
+  {
+   "file": "st13-price-gold.mp4",
+   "topic": "price",
+   "look": "gold champagne, price column left + arch photo",
+   "voiceover": "MARINA-VO-2026-11-03-11-شتوي-لين",
+   "voice": "لين (AI Studio tool)",
+   "duration": 21.94,
+   "made": "2026-11-21",
+   "hook": "دفا وفخامة سوا؟",
+   "scheduled": [
+    "2026-11-23 23:00 IG+FB story",
+    "2026-11-26 13:30 IG+FB story",
+    "2026-11-26 14:30 TikTok"
+   ]
+  },
+  {
+   "file": "st14-shop-visit.mp4",
+   "topic": "shop",
+   "look": "dusty-pink lines, mannequin triptych",
+   "voiceover": "MARINA-VO-2026-11-03-14-عنوان-لين",
+   "voice": "لين (AI Studio tool)",
+   "duration": 22.14,
+   "made": "2026-11-21",
+   "hook": "ما تدرين وين تمرّين علينا؟",
+   "scheduled": [
+    "2026-11-24 23:00 IG+FB story",
+    "2026-11-27 13:30 IG+FB story",
+    "2026-11-27 14:30 TikTok"
+   ]
+  },
+  {
+   "file": "st15-iraqi-pride.mp4",
+   "topic": "iraqi-made",
+   "look": "cream-emerald grid, arch duo",
+   "voiceover": "MARINA-VO-2026-11-03-12-جودة-لين",
+   "voice": "لين (AI Studio tool)",
+   "duration": 22.78,
+   "made": "2026-11-21",
+   "hook": "تدرين وين ينخاط بشتج؟",
+   "scheduled": [
+    "2026-11-24 18:30 IG+FB story",
+    "2026-11-27 15:30 IG+FB story"
+   ]
+  }
+ ]
+}
